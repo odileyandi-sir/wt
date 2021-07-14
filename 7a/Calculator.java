@@ -31,6 +31,7 @@ public class calculator extends HttpServlet {
                 out.println("Addition Answer = "+(Integer.parseInt(n1) + Integer.parseInt(n2)));
         
         
+        
                 out.println("Substraction Answer = "+(Integer.parseInt(n1) - Integer.parseInt(n2)));
         
         
